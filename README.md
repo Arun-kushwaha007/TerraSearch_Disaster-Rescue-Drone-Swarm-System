@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+  
   [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
   [![ROS2](https://img.shields.io/badge/ROS2-Humble-brightgreen.svg)](https://docs.ros.org/en/humble/)
   [![5G](https://img.shields.io/badge/5G-Enabled-red.svg)](https://www.gsma.com/futurenetworks/technology/5g/)
